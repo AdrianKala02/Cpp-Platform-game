@@ -1,0 +1,19 @@
+Witaj! Aktualnie sterujez tym oto mechem.
+Mozesz nim poruszac:
+A - idz w lewo; SPACE - skok; D - idz w prawo;
+H - zmiana zawieszenia;
+
+Strzelanie:
+Cyfry od 1 do 9 - wybor broni;
+LPM - strzal, zawsze automatyczny;
+R - przeladowanie;
+Scroll - przyblizenie/oddalenie view;
+
+Inne:
+M - wlaczenie/wylaczenie minimapy;
+[ ] - przyblizenie i oddalenie minimapy;
+I - wlaczenie/wylaczenie informacji o przeciwniku
+K - zobaczenie kolizji
+
+UWAGA generator pokazania kolizji moze zuzyc wszystkie zasoby mecha,
+moze to prowadzic do niepozadanch sytuacji, uzywaj go z rozwaga
